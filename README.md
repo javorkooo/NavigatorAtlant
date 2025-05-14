@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-## Playwright Booker Platform - Automation Testing
+## Playwright Navigator.ba
 
 
 <div id="top"></div>
