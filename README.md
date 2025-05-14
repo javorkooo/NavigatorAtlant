@@ -11,10 +11,10 @@
 <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Logo" width="240" height="240">
 
 
-  <h3 align="center">Automation Testing - Backend & Frontend</h3>
+  <h3 align="center">Playwright Navigator.ba</h3>
 
   <p align="center">
-    A project where you can learn about automatic testing!
+   Playwright Navigator.ba
   </p>
 </div>
 
